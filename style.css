@@ -212,4 +212,40 @@
   position: relative;
   left: -55px;
 }
+img {
+      width: 250px;
+      height: 250px;
+      margin-top: 20px;
+    }
+    button {
+      margin-top: 30px;
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    .anshul{
+      position:relative;
+      right: -60px;
+      border-radius: 10px;
+    
+    }
+    .kk{
+      color: white;
+      font-weight: 700;
+      right: -100px;
+      top: -310px;
+      font-size: 28px;
+      position: relative;
+    }
+    .mk{
+      position: relative;
+      left: -50px;
+    }
 }
